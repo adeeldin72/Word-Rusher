@@ -21,7 +21,7 @@
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>GADApplicationIdentifier</key>
-	<string>ca-app-pub-5703932646795722~1820464541</string>
+	<string>ca-app-pub-</string>
 	<key>GADIsAdManagerApp</key>
 	<true/>
 	<key>LSApplicationCategoryType</key>
